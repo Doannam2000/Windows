@@ -1,0 +1,5 @@
+2020/08/19-17:46:27.434 4508 Reusing MANIFEST F:\Code\C#\TestOla\TestOla1\TestOla1\bin\Debug\Profile\0\Profile 1\IndexedDB\http_www.moicosmetics.vn_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/19-17:47:07.721 34e4 Level-0 table #5: started
+2020/08/19-17:47:07.822 34e4 Level-0 table #5: 2025 bytes OK
+2020/08/19-17:47:07.855 34e4 Delete type=0 #3
+2020/08/19-17:47:07.855 34e4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

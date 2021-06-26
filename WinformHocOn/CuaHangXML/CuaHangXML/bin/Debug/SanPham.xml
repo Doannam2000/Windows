@@ -1,0 +1,37 @@
+<cuahang>
+  <sanpham>
+    <masp>a</masp>
+    <tensp>a</tensp>
+    <hangsx>a</hangsx>
+    <soluong>2</soluong>
+    <giatien>2</giatien>
+  </sanpham>
+  <sanpham>
+    <masp>b</masp>
+    <tensp>a</tensp>
+    <hangsx>a</hangsx>
+    <soluong>2</soluong>
+    <giatien>2</giatien>
+  </sanpham>
+  <sanpham>
+    <masp>x</masp>
+    <tensp>x</tensp>
+    <hangsx>x</hangsx>
+    <soluong>4</soluong>
+    <giatien>4</giatien>
+  </sanpham>
+  <sanpham>
+    <masp>y</masp>
+    <tensp>x</tensp>
+    <hangsx>x</hangsx>
+    <soluong>4</soluong>
+    <giatien>4</giatien>
+  </sanpham>
+  <sanpham>
+    <masp>d</masp>
+    <tensp>a</tensp>
+    <hangsx>a</hangsx>
+    <soluong>4</soluong>
+    <giatien>4</giatien>
+  </sanpham>
+</cuahang>

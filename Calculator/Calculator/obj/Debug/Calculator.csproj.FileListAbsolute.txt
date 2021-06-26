@@ -1,0 +1,13 @@
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\Code\C\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Code\C\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Code\C\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Code\C\Calculator\Calculator\bin\Debug\RegExTester.exe
+E:\Code\C\Calculator\Calculator\bin\Debug\xNet.dll
+E:\Code\C\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete

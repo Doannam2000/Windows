@@ -1,0 +1,14 @@
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.exe.config
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.exe
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\HTTPRequest.pdb
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\reCAPTCHA.MVC.dll
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\RegExTester.exe
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\bin\Debug\xNet.dll
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.csprojAssemblyReference.cache
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.Form1.resources
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.Properties.Resources.resources
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.csproj.GenerateResource.cache
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.csproj.CoreCompileInputs.cache
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.csproj.CopyComplete
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.exe
+F:\Code\C#\THTTPRequest\HTTPRequest\HTTPRequest\obj\Debug\HTTPRequest.pdb

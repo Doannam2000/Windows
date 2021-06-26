@@ -1,0 +1,17 @@
+﻿<Window x:Class="Selenium.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Selenium"
+        mc:Ignorable="d"
+        Title="Nam" Height="210.246" Width="486.475">
+    <Grid>
+        <Button x:Name="Youtube" Content="Youtube" HorizontalAlignment="Left" Margin="38,25,0,0" VerticalAlignment="Top" Width="75" Click="button_Click"/>
+        <Button x:Name="JSContent" Content="JS Content" HorizontalAlignment="Left" Margin="186,25,0,0" VerticalAlignment="Top" Width="75" Click="button_Click1"/>
+        <Button x:Name="JSContent_Copy" Content="Google Profile" HorizontalAlignment="Left" Margin="320,25,0,0" VerticalAlignment="Top" Width="84" Click="button_Click2"/>
+        <Button x:Name="JSContent_Copy1" Content="Proxy" HorizontalAlignment="Left" Margin="38,63,0,0" VerticalAlignment="Top" Width="75" Click="button_Click3"/>
+        <Button x:Name="Youtube_Copy" Content="Change Frame" HorizontalAlignment="Left" Margin="320,63,0,0" VerticalAlignment="Top" Width="84" Click="button_Click4"/>
+        <Button x:Name="JSContent_Copy2" Content="Upload fIle" HorizontalAlignment="Left" Margin="186,63,0,0" VerticalAlignment="Top" Width="75" Click="button_Click5"/>
+    </Grid>
+</Window>

@@ -1,0 +1,13 @@
+E:\Code\C\WinformHocOn\Baith3\Baith3\bin\Debug\Baith3.exe.config
+E:\Code\C\WinformHocOn\Baith3\Baith3\bin\Debug\Baith3.exe
+E:\Code\C\WinformHocOn\Baith3\Baith3\bin\Debug\Baith3.pdb
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.csprojAssemblyReference.cache
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.Form1.resources
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.Properties.Resources.resources
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.csproj.GenerateResource.cache
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.csproj.CoreCompileInputs.cache
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.exe
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.pdb
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.DangNhap.resources
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.Form2.resources
+E:\Code\C\WinformHocOn\Baith3\Baith3\obj\Debug\Baith3.Form3.resources

@@ -1,0 +1,5 @@
+2020/08/19-12:46:11.074 3fb4 Reusing MANIFEST F:\Code\C#\TestOla\TestOla1\TestOla1\bin\Debug\Profile\0\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/19-12:46:42.646 5850 Level-0 table #5: started
+2020/08/19-12:46:42.669 5850 Level-0 table #5: 2803 bytes OK
+2020/08/19-12:46:42.703 5850 Delete type=0 #3
+2020/08/19-12:46:42.703 5850 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

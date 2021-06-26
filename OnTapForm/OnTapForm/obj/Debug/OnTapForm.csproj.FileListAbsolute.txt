@@ -1,0 +1,12 @@
+E:\Code\C\OnTapForm\OnTapForm\bin\Debug\OnTapForm.exe.config
+E:\Code\C\OnTapForm\OnTapForm\bin\Debug\OnTapForm.exe
+E:\Code\C\OnTapForm\OnTapForm\bin\Debug\OnTapForm.pdb
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.Form1.resources
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.Properties.Resources.resources
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.csproj.GenerateResource.cache
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.csproj.CoreCompileInputs.cache
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.exe
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.pdb
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.csprojAssemblyReference.cache
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.Add.resources
+E:\Code\C\OnTapForm\OnTapForm\obj\Debug\OnTapForm.Del.resources

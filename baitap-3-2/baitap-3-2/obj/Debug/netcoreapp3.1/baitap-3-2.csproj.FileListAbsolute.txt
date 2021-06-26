@@ -1,0 +1,8 @@
+D:\HocKi6\LapTrinhWINDOWS\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.csprojAssemblyReference.cache
+D:\HocKi6\LapTrinhWINDOWS\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.AssemblyInfoInputs.cache
+D:\HocKi6\LapTrinhWINDOWS\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.AssemblyInfo.cs
+D:\HocKi6\LapTrinhWINDOWS\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.csproj.CoreCompileInputs.cache
+E:\Code\C\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.csprojAssemblyReference.cache
+E:\Code\C\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.AssemblyInfoInputs.cache
+E:\Code\C\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.AssemblyInfo.cs
+E:\Code\C\baitap-3-2\baitap-3-2\obj\Debug\netcoreapp3.1\baitap-3-2.csproj.CoreCompileInputs.cache

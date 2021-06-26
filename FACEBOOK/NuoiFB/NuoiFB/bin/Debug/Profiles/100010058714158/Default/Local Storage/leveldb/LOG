@@ -1,0 +1,6 @@
+2021/03/12-13:07:28.569 504 Reusing MANIFEST E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\Profiles\100010058714158\Default\Local Storage\leveldb/MANIFEST-000001
+2021/03/12-13:07:28.570 504 Recovering log #3
+2021/03/12-13:07:28.571 504 Reusing old log E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\Profiles\100010058714158\Default\Local Storage\leveldb/000003.log 
+2021/03/12-13:07:35.227 3088 Level-0 table #5: started
+2021/03/12-13:07:35.257 3088 Level-0 table #5: 27170 bytes OK
+2021/03/12-13:07:35.302 3088 Delete type=0 #3

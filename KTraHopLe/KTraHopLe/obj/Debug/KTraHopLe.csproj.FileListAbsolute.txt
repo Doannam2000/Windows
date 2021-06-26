@@ -1,0 +1,10 @@
+E:\Code\C\KTraHopLe\KTraHopLe\bin\Debug\KTraHopLe.exe.config
+E:\Code\C\KTraHopLe\KTraHopLe\bin\Debug\KTraHopLe.exe
+E:\Code\C\KTraHopLe\KTraHopLe\bin\Debug\KTraHopLe.pdb
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.csprojAssemblyReference.cache
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.Form1.resources
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.Properties.Resources.resources
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.csproj.GenerateResource.cache
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.csproj.CoreCompileInputs.cache
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.exe
+E:\Code\C\KTraHopLe\KTraHopLe\obj\Debug\KTraHopLe.pdb

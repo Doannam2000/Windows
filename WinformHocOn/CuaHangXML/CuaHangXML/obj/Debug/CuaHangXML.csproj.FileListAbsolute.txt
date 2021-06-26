@@ -1,0 +1,10 @@
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\bin\Debug\CuaHangXML.exe.config
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\bin\Debug\CuaHangXML.exe
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\bin\Debug\CuaHangXML.pdb
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.csprojAssemblyReference.cache
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.Form1.resources
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.Properties.Resources.resources
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.csproj.GenerateResource.cache
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.csproj.CoreCompileInputs.cache
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.exe
+E:\Code\C\WinformHocOn\CuaHangXML\CuaHangXML\obj\Debug\CuaHangXML.pdb

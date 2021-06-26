@@ -1,0 +1,29 @@
+2020/08/19-19:13:38.575 4220 Reusing MANIFEST F:\Code\C#\TestOla\TestOla1\TestOla1\bin\Debug\Profile\0\Profile 1\Local Extension Settings\gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/08/19-19:13:47.920 2d34 Level-0 table #5: started
+2020/08/19-19:13:48.001 2d34 Level-0 table #5: 1781748 bytes OK
+2020/08/19-19:13:48.036 2d34 Delete type=0 #3
+2020/08/19-19:13:52.753 2d34 Level-0 table #7: started
+2020/08/19-19:13:53.307 2d34 Level-0 table #7: 5293207 bytes OK
+2020/08/19-19:13:53.339 2d34 Delete type=0 #4
+2020/08/19-19:13:53.437 2d34 Level-0 table #9: started
+2020/08/19-19:13:53.612 2d34 Level-0 table #9: 5292832 bytes OK
+2020/08/19-19:13:53.645 2d34 Delete type=0 #6
+2020/08/19-19:14:39.141 2d34 Level-0 table #11: started
+2020/08/19-19:14:39.381 2d34 Level-0 table #11: 5339200 bytes OK
+2020/08/19-19:14:39.421 2d34 Delete type=0 #8
+2020/08/19-19:14:40.390 2d34 Level-0 table #13: started
+2020/08/19-19:14:40.593 2d34 Level-0 table #13: 5339057 bytes OK
+2020/08/19-19:14:40.936 2d34 Delete type=0 #10
+2020/08/19-19:15:48.453 2d34 Level-0 table #15: started
+2020/08/19-19:15:48.912 2d34 Level-0 table #15: 5339057 bytes OK
+2020/08/19-19:15:48.967 2d34 Delete type=0 #12
+2020/08/19-19:15:48.968 2d34 Compacting 4@0 + 1@1 files
+2020/08/19-19:15:49.177 2d34 Generated table #16@0: 1 keys, 5339057 bytes
+2020/08/19-19:15:49.215 2d34 Generated table #17@0: 4 keys, 342 bytes
+2020/08/19-19:15:49.216 2d34 Compacted 4@0 + 1@1 files => 5339399 bytes
+2020/08/19-19:15:49.249 2d34 compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/08/19-19:15:49.249 2d34 Delete type=2 #7
+2020/08/19-19:15:49.249 2d34 Delete type=2 #9
+2020/08/19-19:15:49.249 2d34 Delete type=2 #11
+2020/08/19-19:15:49.249 2d34 Delete type=2 #13
+2020/08/19-19:15:49.249 2d34 Delete type=2 #15

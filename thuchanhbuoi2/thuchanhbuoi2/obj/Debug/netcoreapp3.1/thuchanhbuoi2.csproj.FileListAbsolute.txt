@@ -1,0 +1,13 @@
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.exe
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.deps.json
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.runtimeconfig.json
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.runtimeconfig.dev.json
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.dll
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\bin\Debug\netcoreapp3.1\thuchanhbuoi2.pdb
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.csprojAssemblyReference.cache
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.AssemblyInfoInputs.cache
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.AssemblyInfo.cs
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.csproj.CoreCompileInputs.cache
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.dll
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.pdb
+E:\Code\C#\thuchanhbuoi2\thuchanhbuoi2\obj\Debug\netcoreapp3.1\thuchanhbuoi2.genruntimeconfig.cache

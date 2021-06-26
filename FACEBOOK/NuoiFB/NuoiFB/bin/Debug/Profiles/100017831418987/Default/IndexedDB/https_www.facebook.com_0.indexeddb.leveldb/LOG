@@ -1,0 +1,7 @@
+2021/03/15-22:24:17.050 3b7c Reusing MANIFEST E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\Profiles\100017831418987\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/15-22:24:17.051 3b7c Recovering log #3
+2021/03/15-22:24:17.077 3b7c Reusing old log E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\Profiles\100017831418987\Default\IndexedDB\https_www.facebook.com_0.indexeddb.leveldb/000003.log 
+2021/03/15-22:24:28.256 3624 Level-0 table #5: started
+2021/03/15-22:24:28.569 3624 Level-0 table #5: 1557 bytes OK
+2021/03/15-22:24:28.625 3624 Delete type=0 #3
+2021/03/15-22:24:28.625 3624 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

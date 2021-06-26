@@ -1,0 +1,7 @@
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\obj\Debug\QLSV1.csprojAssemblyReference.cache
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\obj\Debug\QLSV1.csproj.CoreCompileInputs.cache
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\bin\Debug\QLSV1.exe.config
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\bin\Debug\QLSV1.exe
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\bin\Debug\QLSV1.pdb
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\obj\Debug\QLSV1.exe
+E:\Code\C\WinformHocOn\QLSV1\QLSV1\obj\Debug\QLSV1.pdb

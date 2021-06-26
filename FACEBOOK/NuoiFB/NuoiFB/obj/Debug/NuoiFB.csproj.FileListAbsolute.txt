@@ -1,0 +1,13 @@
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\NuoiFB.exe.config
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\NuoiFB.exe
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\NuoiFB.pdb
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\WebDriver.dll
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\bin\Debug\WebDriver.xml
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.csprojAssemblyReference.cache
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.Form1.resources
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.Properties.Resources.resources
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.csproj.GenerateResource.cache
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.csproj.CoreCompileInputs.cache
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.csproj.CopyComplete
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.exe
+E:\Code\C\FACEBOOK\NuoiFB\NuoiFB\obj\Debug\NuoiFB.pdb

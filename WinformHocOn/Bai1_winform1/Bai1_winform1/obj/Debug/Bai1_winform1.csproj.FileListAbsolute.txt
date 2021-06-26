@@ -1,0 +1,13 @@
+E:\Code\C\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.exe.config
+E:\Code\C\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.exe
+E:\Code\C\Bai1_winform1\Bai1_winform1\bin\Debug\Bai1_winform1.pdb
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csprojAssemblyReference.cache
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Form1.resources
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Properties.Resources.resources
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csproj.GenerateResource.cache
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.csproj.CoreCompileInputs.cache
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.exe
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.pdb
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Form2.resources
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.Form3.resources
+E:\Code\C\Bai1_winform1\Bai1_winform1\obj\Debug\Bai1_winform1.menu.resources

@@ -1,0 +1,12 @@
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.csprojAssemblyReference.cache
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.Form1.resources
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.Form2.resources
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.Properties.Resources.resources
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.csproj.GenerateResource.cache
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.csproj.CoreCompileInputs.cache
+E:\Code\C\OnTapKTra2\OnTapKTra2\bin\Debug\OnTapKTra2.exe.config
+E:\Code\C\OnTapKTra2\OnTapKTra2\bin\Debug\OnTapKTra2.exe
+E:\Code\C\OnTapKTra2\OnTapKTra2\bin\Debug\OnTapKTra2.pdb
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.exe
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.pdb
+E:\Code\C\OnTapKTra2\OnTapKTra2\obj\Debug\OnTapKTra2.FormSua.resources

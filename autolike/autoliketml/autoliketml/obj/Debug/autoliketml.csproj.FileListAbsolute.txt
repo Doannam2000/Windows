@@ -1,0 +1,15 @@
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\autoliketml.exe.config
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\autoliketml.exe
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\autoliketml.pdb
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\KAutoHelper.dll
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\WebDriver.dll
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\Emgu.CV.World.dll
+F:\Code\C#\autolike\autoliketml\autoliketml\bin\Debug\WebDriver.xml
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.csprojAssemblyReference.cache
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.Form1.resources
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.Properties.Resources.resources
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.csproj.GenerateResource.cache
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.csproj.CoreCompileInputs.cache
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.csproj.CopyComplete
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.exe
+F:\Code\C#\autolike\autoliketml\autoliketml\obj\Debug\autoliketml.pdb

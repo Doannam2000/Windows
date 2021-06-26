@@ -1,0 +1,5 @@
+E:\Code\C\WinformHocOn\TH3_3\TH3_3\obj\Debug\TH3_3.csprojAssemblyReference.cache
+E:\Code\C\WinformHocOn\TH3_3\TH3_3\obj\Debug\TH3_3.Form1.resources
+E:\Code\C\WinformHocOn\TH3_3\TH3_3\obj\Debug\TH3_3.Properties.Resources.resources
+E:\Code\C\WinformHocOn\TH3_3\TH3_3\obj\Debug\TH3_3.csproj.GenerateResource.cache
+E:\Code\C\WinformHocOn\TH3_3\TH3_3\obj\Debug\TH3_3.csproj.CoreCompileInputs.cache
