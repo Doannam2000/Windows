@@ -1,3 +1,3 @@
-cd C:\Users\Doann\AppData\LocalLow\IronGate\Valheim\worlds
+cd C:\Users\%username%\AppData\LocalLow\IronGate\Valheim\worlds
 git pull origin master
 exit
